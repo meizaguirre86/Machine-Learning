@@ -1,4 +1,4 @@
-SIMPLE MACHINE LEARNING APPLICATIONS
+# SIMPLE MACHINE LEARNING APPLICATIONS
 
 Stock Price prediction - RNN: Complex stock price forecasting using Recurrent Neural Networks.\
 Stock Price - SVM: Stock price forecasting using Support Vector Machines.\
